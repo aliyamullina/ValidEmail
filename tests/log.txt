@@ -1,0 +1,8 @@
+True email: test@test.ru
+True email: w@w.com
+True email: 123QWE@mmm.mmm
+True email: john.doe@gmail.com
+False email: test@test.
+False email: w@
+False email: @tt
+False email: john.doe@gmail,com
