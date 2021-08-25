@@ -15,7 +15,7 @@ def log(file_name, text):
     :param text:
     :return:
     """
-    with open(file_name, 'w') as f_obj:
+    with open(file_name, 'a') as f_obj:
         f_obj.write(text)
 
 
